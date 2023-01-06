@@ -6,7 +6,7 @@ Parcoil Inc is an innovative company that specializes in creating high quality, 
 
 ## 🔗 Links
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parcoilinc)
 
 ## Other Common Github Profile Sections
 
