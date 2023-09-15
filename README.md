@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/Jy8QWf1.png)
+![Logo](https://i.imgur.com/IUOadJz.png)
 
 ## 🚀 About Us
 
